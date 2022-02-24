@@ -12,7 +12,6 @@ It's an online food ordering app like Uber Eats
 
 <br />
 <p>
-    <img src="./assets/screenshots/app-preview-1.gif" width="250">
     <img src="./assets/screenshots/app-preview-map.png" width="250">
     <img src="./assets/screenshots/app-preview-2.gif" width="250">
     <img src="./assets/screenshots/app-preview-restaurant-menu.png" width="250">
