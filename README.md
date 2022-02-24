@@ -1,5 +1,5 @@
 <h1 align="center">
-  🍉 <em>YumMeals</em>
+  🍉 <em>Good Meals</em>
 </h1>
 
 <div align="center">
