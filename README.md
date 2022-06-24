@@ -10,11 +10,6 @@
 
 It's an online food ordering app like Uber Eats 
 
-<br />
-<p>
-    <img src="./assets/screenshots/app-preview-map.png" width="250">
-    <img src="./assets/screenshots/app-preview-2.gif" width="250">
-    <img src="./assets/screenshots/app-preview-restaurant-menu.png" width="250">
-    <img src="./assets/screenshots/app-preview-3.gif" width="250">
-    <img src="./assets/screenshots/app-preview-user-settings.png" width="250">
-</p>
+## Preview
+
+<img src="https://github.com/Orlando17544/Portafolio/blob/main/src/assets/goodMeals.gif" alt="Simplefolio" width="900px" />
